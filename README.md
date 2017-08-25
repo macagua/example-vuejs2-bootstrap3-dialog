@@ -7,6 +7,8 @@
 ``` bash
 # install dependencies
 npm install
+npm install --save jquery bootstrap
+npm install --save bootstrap3-dialog
 
 # serve with hot reload at localhost:8080
 npm run dev
